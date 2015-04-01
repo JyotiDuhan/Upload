@@ -2,7 +2,7 @@
 This is an upload functionality using dropzone.js library.
 
 Steps to follow : 
-1) put upload.php ,store.php and includes directory containing db.php under your configured host path.
+1) put dropzone.js, dropzone.css, upload.php, store.php and includes directory containing db.php under your configured host path.
   Explanation:-
   a) upload.php is responsible to provide the area for uploading the files via drag & drop OR selecting a file(on click).
   b) store.php is taking care of saving the path of uploaded files on the server.

@@ -11,9 +11,9 @@ include('<path to db connection file>/db.php');
 </head>
 <body>
 	<label>Image</label>
-	<form action="/upload_target.php" class="dropzone" style="height: 150px; width: 200px; min-height: 0px; padding: 0px;"></form>
+	<form action="/store.php" class="dropzone" style="height: 150px; width: 200px; min-height: 0px; padding: 0px;"></form>
 	<label>Address Proof</label>
-	<form action="/upload_target.php" class="dropzone" style="height: 150px; width: 200px; min-height: 0px; padding: 0px;"></form>
+	<form action="/store.php" class="dropzone" style="height: 150px; width: 200px; min-height: 0px; padding: 0px;"></form>
 
 	<p>
 		<?php
